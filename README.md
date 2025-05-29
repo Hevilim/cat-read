@@ -77,3 +77,5 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+#По всем вопросам писать в telegram @hevilim
